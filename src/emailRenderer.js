@@ -30,7 +30,7 @@ const THEMES = {
 }
 
 function wabiLogoImg(baseUrl) {
-  return `<img src="${baseUrl}/wabi-logo.svg" alt="wabi" width="86" height="20" style="display:inline-block;vertical-align:middle;" />`
+  return `<img src="${baseUrl}/wabi-logo-dark.svg" alt="wabi" width="86" height="20" style="display:inline-block;vertical-align:middle;" />`
 }
 
 function renderHeader(fs, baseUrl) {
